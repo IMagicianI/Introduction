@@ -1,5 +1,5 @@
 # Introduction
-  This organization was created as an *unofficial* place for Uppsala University students to share their work and notes when appropriate. Originally created by and for the 2015 Computational Msc. group, everyone studying in Uppsala is free to join. Just send an email to github.com-at-codingcat.nl using your student email.
+  This organization was created as an *unofficial* place for Uppsala University students to share their work, notes and other useful information. Originally created by and for the 2015 Computational Msc. group, everyone studying in Uppsala is free to join. Just send an email to github.com-at-codingcat.nl using your student email.
 # Organization
   There is no strict organization or file hierarchy at the moment, but repos relating to courses should be named *fullname-CourseCode*, and should contain things such as student notes, answers to exercises, code-snippets, lectures, and whatever else might be useful to current or future students. Note that any course material might be copyrighted to the professor or whomever is responsible. Please clear it with them before uploading such files.
   
