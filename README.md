@@ -5,4 +5,4 @@
 
 # Copyright
  Please do not upload or directly link to copyright infringing content (e.g. pirated  textbooks), however feel free to mention if it is possible to find one ;).
-<!---TODO: Add a bit about how to use Github/git, licensing information-->
+<!---TODO: Add a bit about how to use Github/git, licensing information, inquire about the distribution rights on assigments, examples.-->
