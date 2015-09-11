@@ -1,4 +1,6 @@
 # Introduction
+
+[![Join the chat at https://gitter.im/UppsalaStudents/Introduction](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/UppsalaStudents/Introduction?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
   This organization was created as an *unofficial* place for Uppsala University students to share their work, notes and other useful information. Originally created by and for the 2015 Computational Msc. group, everyone studying in Uppsala is free to join. Just send an email to github.com-at-codingcat.nl using your student email.
 # Organization
   There is no strict organization or file hierarchy at the moment, but repos relating to courses should be named *fullname-CourseCode*, and should contain things such as student notes, answers to exercises, code-snippets, lectures, and whatever else might be useful to current or future students. Note that any course material might be copyrighted to the professor or whomever is responsible. Please clear it with them before uploading such files.
