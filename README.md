@@ -26,9 +26,9 @@ For courses, this group is inteded to be used to help eachother with questions &
  To get a personal copy of all the files in a repo, simply hit the "Download as Zip" button (shown below). This does not even require an account.
  
 To add or change files hit the fork button in the top right corner, then select you username. This will add an exact clone of the repo to your personal account. Go to that repo and copy it to your computer using the clone button (requires [Github Desktop](https://desktop.github.com/) ).
-![buttons](/images/github_clone.png?raw=true)
+![buttons](/Images/github_clone.PNG?raw=true)
 If you're on a linux machine, or prefer the command line, you can use "git clone theUrlAboveTheButton". Any changes you make will automatically show up in the Github Desktop client. Simply hit "Uncommited changes" to show them, hit commit to master (this makes a snapshot on your local computer) and finally hit sync to put your changes back online.
-![Github Sync](/images/github_push.png?raw=true)
+![Github Sync](/Images/github_push.PNG?raw=true)
 
 If you're working in a group, have a look at [adding collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/) to see how you can have it so everyone can work on the same repo. 
 
@@ -36,7 +36,7 @@ If you'd ever like to make any changes to the group's repository: either do as a
 
 ## Chatting, Questions & Issues
 
-For questions or issues, you can use the issues tab, which work like a forum: ![issues tab](/images/issues.png?raw=true) and hopefully a kind student or instructor will come and help you. By default, people recieve notifications when a new issues is created. 
+For questions or issues, you can use the issues tab, which work like a forum: ![issues tab](/Images/issues.PNG?raw=true) and hopefully a kind student or instructor will come and help you. By default, people recieve notifications when a new issues is created. 
 
 For quick questions or a bit of banter, you can use Gitter, this is an instant messaging service which automatically uses your github account. To join a chatroom, simple press the Gitter button that should be at the top of each repo's readme. 
 
