@@ -6,6 +6,7 @@
 # terms
 For those of you unfamiliar with Git(Hub), here is a quick-rundown of some lingo:
 * Git : The technology used to share & collaborate on files.
+* Github : This website, which uses git to help you host files & collaborate. 
 * Repository : A collection of files, kind of like a folder, in this case we use a single repository per course.
 * Commit : Save any changes you have made and take a snapshot of all the files. This can serve as a back-up as well as a log 
    of 'who changed what'. Did you or someone else mess something up? Just undo their commit.
