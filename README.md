@@ -17,7 +17,7 @@ For those of you unfamiliar with Git(Hub), here is a quick-rundown of some lingo
 # Setting Up
 In order to post comments/take part in discussions you will need a [GitHub account](https://github.com/join) (free), that's it. If you're on Windows or Mac, I recommend you download [Github Desktop](https://desktop.github.com/) to easily download and work on files, if you're on Linux you're probably technical enough to figure out [how to use Git](https://help.github.com/articles/set-up-git/#platform-linux) yourself ;-).
 
-In order to easily add new files and repositories (courses) you need to be added to the group, simply drop a comment [here](https://github.com/UppsalaStudents/Introduction/issues/1) and you'll be added as soon as possible. Note that everyone who's already a member can add anyone to the group, so you can also ask anyone you know directly.
+In order to easily add new files and repositories (but not for reading/downloading or commenting) you need to be added to the group, simply drop a comment [here](https://github.com/UppsalaStudents/Introduction/issues/1) and you'll be added as soon as possible. Note that everyone who's already a member can add anyone to the group, so you can also ask anyone you know directly.
 
 # Usage
 
